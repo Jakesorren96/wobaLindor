@@ -1,18 +1,7 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Formula for calculating WOBA 
+=((S3*L3)+(T3*P3)+(U3*Q3)+(V3*H3)+(W3*I3)+(X3*J3))/(E3+L3+Y3+P3)
+~Drag
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#Formula for 5 game Cluster 
+=SUM(Sheet1!R22:R26)/5
+~Drag
